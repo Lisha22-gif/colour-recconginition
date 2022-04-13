@@ -1,240 +1,66 @@
-{
-	"auto_complete":
-	{
-		"selected_items":
-		[
-			[
-				"op",
-				"option"
-			]
-		]
-	},
-	"buffers":
-	[
-		{
-			"file": "/C/Users/91837/Desktop/lisha website 1/Colour-Identification-in-Images/Colour_Identification.py",
-			"settings":
-			{
-				"buffer_size": 1839,
-				"line_ending": "Windows"
-			}
-		}
-	],
-	"build_system": "Packages/Python/Python.sublime-build",
-	"build_system_choices":
-	[
-		[
-			[
-				[
-					"Packages/Python/Python.sublime-build",
-					""
-				],
-				[
-					"Packages/Python/Python.sublime-build",
-					"Syntax Check"
-				]
-			],
-			[
-				"Packages/Python/Python.sublime-build",
-				""
-			]
-		]
-	],
-	"build_varint": "",
-	"command_palette":
-	{
-		"height": 0.0,
-		"last_filter": "",
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"console":
-	{
-		"height": 0.0,
-		"history":
-		[
-		]
-	},
-	"distraction_free":
-	{
-		"menu_visible": true,
-		"show_minimap": false,
-		"show_open_files": false,
-		"show_tabs": false,
-		"side_bar_visible": false,
-		"status_bar_visible": false
-	},
-	"file_history":
-	[
-		"/C/Users/91837/Downloads/iotcvinternshiptask1-main.zip",
-		"/C/Users/91837/Downloads/MotionDetector-main (1).zip",
-		"/C/Users/91837/Downloads/add_button.html",
-		"/C/Users/91837/Downloads/Color-Identification-on-an-Image-main.zip",
-		"/C/Users/91837/Documents/lab 1.html"
-	],
-	"find":
-	{
-		"height": 28.0
-	},
-	"find_in_files":
-	{
-		"height": 0.0,
-		"where_history":
-		[
-		]
-	},
-	"find_state":
-	{
-		"case_sensitive": false,
-		"find_history":
-		[
-			"<!DOCTYPE html>\n<html>\n<head>\n   <meta charset=\"utf-8\">\n   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n   <title></title>\n</head>\n<body>\n\n</body>\n</html>",
-			"<!DOCTYPE html>\n<html>\n<head>\n<title>Background color changer</title>\n<input type=\"button\" value=\"Click\" onclick=\"fun1()\">\n<h6>Background color changer</h6>\n<marquee>WELCOME TO MY BLOG</marquee>\n<h1 id=\"d2\"> Welcome</h1>\n<script>\nfunction fun1()\n{\nvar d2=document.getElementById('d2');\nd2.style.color=\"pink\";\nd2.style.fontsize=\"50 px\";\nd2.style.backgroundColor=\"brown\";\ndocument.bgColor=\"violet\";\n\n}\n</script>\n</head>\n<body>\n\n</body>\n</html>\n",
-			"<html>\n<body>\nEnter your name <input type=\"text\"id=\"t1\"><br><br>\n<input type=\"button\"value=\"Click\"onclick=\"fun1()\"><br><br>\n<div id=\"d1\">Hello</div><br>\n<script>\nfunction fun1()\n{\n   var v1=document.getElementById(\"d1\");\n   alert(v1.innerHTML);\n   var t1=document.getElementById('t1').value;\n   v1.innerHTML+=\"\"+t1+\"\"+\"Welcome to world of Javascript\";\n}\n</script>\n</body>\n</html>\n",
-			"<!DOCTYPE html>\n<html>\n<head>\n<meta charset=\"utf-8\">\n<title>COFEE SHOP</title>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"main.css\">\n</head>\n<body>\n<div class=\"wrapper\">\n<div class=\"nav\">\n<ul>\n<li><a href=\"#\">Home</a></li>\n<li><a href=\"#\">About Us</a></li>\n<li><a href=\"#\">Coffee</a></li>\n<li><a href=\"#\">Contact</a></li>\n</ul>\n</div>\n</div>\n</body>\n</html>\n\nhtml\n{\nmargin: 0;\npadding: 0;\nwidth: 100;\n}\nbody\n{\nmargin: 0;\npadding: 0;\nwidth: 100%;\nheight: 100vh;\nbackground: url(image1.jpg) no-repeat 50% 50%;\nbackground-position:cover;\ndisplay: table;\n}\n\n.nav\n{\ntext-align: center;\nmargin-top: 40px;\n}\nli\n{\nlist-style: none;\ndisplay: inline-block;\n}\na\n{\ntext-decoration: none;\ncolor: #fff;\ntext-transform: uppercase;\nfont-family: montserrat;\nfont-weight: lighter;\npadding: 16px 40px;\n}\n\n",
-			"<html>\n<head>\n          <title>Company Registration Form</title>\n</head>\n<body>\n<form target=\"demo.js\" method=\"get/post\">\n\tEnter Name <input type=\"text\"> <br><br>\n    Enter Your Password<input type=\"password\"> <br><br>\n    Gender <input type=\"radio\" name='gender'> Female\n    <input type=\"radio\" name='gender'> Male <br><br>\n    Hobbies<input type=\"checkbox\"> Cricket\n    <input type=\"checkbox\">Tennis\n    <input type=\"checkbox\">R"
-		],
-		"highlight": true,
-		"in_selection": false,
-		"preserve_case": false,
-		"regex": false,
-		"replace_history":
-		[
-		],
-		"reverse": false,
-		"scrollbar_highlights": true,
-		"show_context": true,
-		"use_buffer2": true,
-		"use_gitignore": true,
-		"whole_word": false,
-		"wrap": true
-	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/91837/Desktop/lisha website 1/Colour-Identification-in-Images/Colour_Identification.py",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1839,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								435,
-								435
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
-			]
-		}
-	],
-	"incremental_find":
-	{
-		"height": 28.0
-	},
-	"input":
-	{
-		"height": 0.0
-	},
-	"layout":
-	{
-		"cells":
-		[
-			[
-				0,
-				0,
-				1,
-				1
-			]
-		],
-		"cols":
-		[
-			0.0,
-			1.0
-		],
-		"rows":
-		[
-			0.0,
-			1.0
-		]
-	},
-	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 132.0
-	},
-	"output.find_results":
-	{
-		"height": 0.0
-	},
-	"pinned_build_system": "Packages/Python/Python.sublime-build",
-	"project": "iotcvinternshiptask1-main.sublime-project",
-	"replace":
-	{
-		"height": 52.8
-	},
-	"save_all_on_build": true,
-	"select_file":
-	{
-		"height": 0.0,
-		"last_filter": "",
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"select_project":
-	{
-		"height": 0.0,
-		"last_filter": "",
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"select_symbol":
-	{
-		"height": 0.0,
-		"last_filter": "",
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"selected_group": 0,
-	"settings":
-	{
-	},
-	"show_minimap": true,
-	"show_open_files": false,
-	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 150.0,
-	"status_bar_visible": true,
-	"template_settings":
-	{
-	}
-}
+import cv2
+import pandas as pd
+
+# --------------------------------------------------------------------------
+
+img_path = 'img.jpg'
+csv_path = 'colors.csv'
+
+# reading csv file
+index = ['color', 'color_name', 'hex', 'R', 'G', 'B']
+df = pd.read_csv(csv_path, names=index, header=None)
+
+# reading image
+img = cv2.imread(img_path)
+img = cv2.resize(img, (1400,1000))
+
+#declaring global variables
+clicked = False
+r = g = b = xpos = ypos = 0
+
+#function to calculate minimum distance from all colors and get the most matching color
+def get_color_name(R,G,B):
+	minimum = 1000
+	for i in range(len(df)):
+		d = abs(R - int(df.loc[i,'R'])) + abs(G - int(df.loc[i,'G'])) + abs(B - int(df.loc[i,'B']))
+		if d <= minimum:
+			minimum = d
+			cname = df.loc[i, 'color_name']
+
+	return cname
+
+#function to get x,y coordinates of mouse double click
+def draw_function(event, x, y, flags, params):
+	if event == cv2.EVENT_LBUTTONDBLCLK:
+		global b, g, r, xpos, ypos, clicked
+		clicked = True
+		xpos = x
+		ypos = y
+		b,g,r = img[y,x]
+		b = int(b)
+		g = int(g)
+		r = int(r)
+
+# creating window
+cv2.namedWindow('image')
+cv2.setMouseCallback('image', draw_function)
+
+while True:
+	cv2.imshow('image', img)
+	if clicked:
+		#cv2.rectangle(image, startpoint, endpoint, color, thickness)-1 fills entire rectangle 
+		cv2.rectangle(img, (20,20), (600,60), (b,g,r), -1)
+
+		#Creating text string to display( Color name and RGB values )
+		text = get_color_name(r,g,b) + ' R=' + str(r) + ' G=' + str(g) + ' B=' + str(b)
+		#cv2.putText(img,text,start,font(0-7),fontScale,color,thickness,lineType )
+		cv2.putText(img, text, (50,50), 2,0.8, (255,255,255),2,cv2.LINE_AA)
+
+		#For very light colours we will display text in black colour
+		if r+g+b >=600:
+			cv2.putText(img, text, (50,50), 2,0.8, (0,0,0),2,cv2.LINE_AA)
+
+	if cv2.waitKey(20) & 0xFF == 27:
+		break
+
+cv2.destroyAllWindows()
